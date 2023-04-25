@@ -6,11 +6,12 @@ ul.a {
   background-color: #ffffff;
   border: none;
   color: #ffffff;
-  padding: 16px 32px;
+  padding: 4px 6px;
   text-align: center;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 4px 4px;
+  width: 100%;
   transition-duration: 0.5s;
 }
 

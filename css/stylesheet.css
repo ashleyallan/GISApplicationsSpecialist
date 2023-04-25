@@ -4,10 +4,22 @@ ul.a {
 
 .button {
   background-color: #ffffff;
+  border: none;
+  color: #ffffff;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.5s;
+}
+
+.greybutton {
+  background-color: #ffffff;
   color: #808080;
   border: 2px solid #e7e7e7;
 }
 
-.button:hover {
+.greybutton:hover {
   background-color: #e7e7e7;
 }

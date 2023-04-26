@@ -1,43 +1,59 @@
-body {
-  color: #000;
+.body {
+  color: #000000;
   background-color: #f1f1f1;
   margin: 0;
-  font-family: Verdana, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 15px;
   line-height: 1.5;
 }
-content {
+.content {
   max-width: 1400 px;
   margin-top: 16px;
 }
 h1 {
   font-size: 36px;
-  color:
+  color: #757575
 }
 h2 {
   font-size: 30px;
-  color:
+  color: #757575
 }
 h3 {
   font-size: 24px;
-  color:
+  color: #757575
 }
 h4 {
   font-size: 20px;
-  color:
+  color: #757575;
 }
 h5 {
   font-size: 18px;
-  color:
+  color: #757575;
 }
 h6 {
   font-size: 16px;
-  color:
+  color: #757575;
+}
+h7 {
+  font-size: 14px;
+  color: #757575;
 }
 hr {
   border: 0;
   border-top: 1px solid #eee;
   margin: 20px 0;
+}
+.row {
+  padding: 0 8px;
+}
+.leftcolumn {
+  float: left;
+  width: 100%;
+  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+}
+.info {
+  color: #000000;
+  background-color: #ffffff;
 }
 
 ul.a {

@@ -1,1 +1,118 @@
-
+* {
+    font-family: "Roboto", sans-serif;
+    color: #757575;
+}
+p {
+    font-size: 15px;
+    color: #000000;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+font-size: 30px;
+}
+h3 {
+font-size: 24px;
+}
+h4 {
+font-size: 20px;
+opacity: 0.6;
+}
+h5 {
+font-size: 18px;
+}
+h6 {
+font-size: 16px;
+}
+h6b {
+    font-size: 16px;
+    opacity: 0.6;
+}
+h7 {
+font-size: 14px;
+}
+h8 {
+    font-size: 15px;
+    color: #23086e;
+}
+.image {
+    display: block;
+}
+.icon {
+    padding-right: 32px;
+    color: #23086e;
+}
+.bar {
+    border-radius: 16px;
+    background-color: #f1f1f1;
+    size: 15px;
+}
+.inbar {
+    border-radius: 16px;
+    background-color: #23086e;
+    text-align: center;
+}
+ul.a {
+    list-style-type: circle;
+}
+.body {
+    background-color: #f1f1f1;
+}
+.page-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    max-width: 1400px;
+}
+.grid {
+    padding: 0 8px;
+}
+.column-1 {
+    float: left;
+    width: 350px;
+    margin: 10px;
+}
+.column-2 {
+    float: left;
+    width: 950px;
+    margin: 10px;
+}
+.content {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.block-1 {
+    color: #000000;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.portfolio-button {
+    background-color: #ffffff;
+    border: none;
+    color: #ffffff;
+    padding: 4px 6px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    width: 100%;
+    transition-duration: 0.3s;
+  }
+  .button {
+    background-color: #ffffff;
+    color: #808080;
+    border: 2px solid #e7e7e7;
+  }
+  .button:hover {
+    background-color: #e7e7e7;
+  }
+  .footnote {
+    margin-bottom: 16px;
+    background-color: #23086e;
+    text-align: center;
+    color: #ffffff;
+  }
